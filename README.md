@@ -1,2 +1,2 @@
 # EducateHut
-Educate Hut
+Alarm and Shutdown code for Educate Hut
